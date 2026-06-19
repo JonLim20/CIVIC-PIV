@@ -11,8 +11,9 @@ In order to generate detailed pixel-by-pixel information on change over time, we
 **STEP 1: Generate and Download New Yearly Composite**
 *For this step, you need to make a Google Earth Engine account, and install a copy of ArcGIS Pro*
 
-1. Create a Google Earth Engine account and paste the following script into the analysis window https://github.com/JonLim20/CIVIC/blob/4ffc068e22a20070730105e65aa133259a7afd39/LANDSAT8%20Google%20Earth%20Engine
-2. Download the imagery for the year you are interested in, and bring into ArcGIS Pro, and then create binary planforms using Step 2 below
+1. Create a Google Earth Engine account and paste the following script into the analysis window. it is file S1 in the GitHub repository https://github.com/JonLim20/CIVIC/blob/4ffc068e22a20070730105e65aa133259a7afd39/LANDSAT8%20Google%20Earth%20Engine
+2. Adjust date range and study area, then press run to preview the imagery. 
+3. If imagery looks good, download the imagery for the year you are interested in, bring it into ArcGIS Pro, and then create binary planforms using Step 2 below
 
 **STEP 2: Binary Thresholding Workflow**
 
