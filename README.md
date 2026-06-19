@@ -87,5 +87,7 @@ iii.	Correllation robustness= extreme
 
 20. Carry out a spatial join between the vectors and the corresponding sectors (Sector, in the PIV Data folder) they are in
 21. Export these as .csv files to a folder containing all other spatial-joined vector .csvs
-22. Execute script S5 in python, after directing it to the relevant folder. 
+22. Execute script S5 in python, after directing it to the relevant folder.
+23. Kanektok sector shapefile archived in the PIV Data folder
+
 
