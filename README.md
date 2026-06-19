@@ -58,6 +58,8 @@ This is the workflow for creating river planform binary rasters in ArcGIS Pro. I
 
 [^3]:  https://pro.arcgis.com/en/pro-app/3.4/tool-reference/data-management/dissolve.htm
 
+Make 4 realizations, each with different definitions of water.
+
 **Step 3: Clipping the products**
 
 9.	Generate a study area and then export it to a folder as a shapefile (ie. Not within a geodatabase). Take care to save the .prj and .tfw for use in Step 5
