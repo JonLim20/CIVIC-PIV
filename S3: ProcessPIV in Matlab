@@ -1,27 +1,4 @@
-% Postprocess 4+ PIVlab realizations for a single Landsat binary pair. Please see https://uageos.maps.arcgis.com/home/group.html?id=e0ce8714edb74442912f370d2a776959#overview for instructions on use
-%
-% FIXED VERSION
-%   - Assumes PIV x/y grid is already in METRES from the upper-left origin
-%   - Removes erroneous *1000 map conversion
-%   - Exports shapefile with true vector lengths by default
-%   - Keeps georeferenced outputs, uncertainty filtering, and figures
-%
-% INPUT ASSUMPTION
-%   Based on your sample MAT, x and y are already in metres.
-%   Therefore georeferencing is:
-%
-%       Xmap = C + X
-%       Ymap = F - Y
-%
-%   where C,F come from the world file (.tfw), and X,Y are already metres
-%   from the upper-left image origin.
-%
-% NOTES
-%   - shp_scale_factor = 1.0 means exported lines are true map length
-%   - If you want display exaggeration only, increase shp_scale_factor
-%     after confirming the vectors align correctly
-%
-% Jonathan's fixed version
+% Postprocess 4+ PIVlab realizations for a single Landsat binary pair. 
 
 clear; clc;
 
