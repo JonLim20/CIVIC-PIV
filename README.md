@@ -11,6 +11,7 @@ In order to generate detailed pixel-by-pixel information on change over time, we
 
 **STEP 1: Generate and Download New Yearly Composite**
 *For this step, you need to make a Google Earth Engine account, and install a copy of ArcGIS Pro*
+Video guide: https://youtu.be/hvPrCUGzM2E
 
 1. Create a Google Earth Engine account and paste the following script into the analysis window. it is file S1 in the GitHub repository https://github.com/JonLim20/CIVIC/blob/4ffc068e22a20070730105e65aa133259a7afd39/LANDSAT8%20Google%20Earth%20Engine
 2. Adjust date range and study area, then press run to preview the imagery. 
