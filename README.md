@@ -7,6 +7,7 @@ In order to generate detailed pixel-by-pixel information on change over time, we
 1. ESRI ArcGIS Pro
 2. Anaconda
 3. An internet connection and browser of choice
+4. (OptionaL) Matlab desktop, otherwise Matlab free browser version is fine
 
 **STEP 1: Generate and Download New Yearly Composite**
 *For this step, you need to make a Google Earth Engine account, and install a copy of ArcGIS Pro*
