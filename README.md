@@ -73,10 +73,13 @@ i.	Interrogation area pass 1 = size of widest channel in pixels. For Kanektok, 3
 ii.	Pass 2 and pass 3 half of each other. For Landsat, 16 and 8pixels.
 iii.	Correllation robustness= extreme
 
+14. All available PIV pairs calculated are archived in the PIV Data folder, under the "pivpairs" compressed folder
+
+
 **Step 5: Matlab**
 
-12.	Create an account in Matlab Online, and paste the provided script there, in order to process the realizations.
-13.	Create a folder in Matlab Online, and upload the realizations by pasting it into the folder
-14.	Modify the settings as needed in the script and run the realizations, including the .prj and .tfw files produced in Step 3
-15.	This outputs the results as vector confidence graphs and the vectors themselves as shapefiles, embedded with magnitude of movement over time
+15.	Create an account in Matlab Online, and paste the provided script there, in order to process the realizations.
+16.	Create a folder in Matlab Online, and upload the realizations by pasting it into the folder
+17.	Modify the settings as needed in the script and run the realizations, including the .prj and .tfw files produced in Step 3
+18.	This outputs the results as vector confidence graphs and the vectors themselves as shapefiles, embedded with magnitude of movement over time
 7
