@@ -80,6 +80,9 @@ iii.	Correllation robustness= extreme
 
 15.	Create an account in Matlab Online, and paste the provided script there, in order to process the realizations.
 16.	Create a folder in Matlab Online, and upload the realizations by pasting it into the folder
-17.	Modify the settings as needed in the script and run the realizations, including the .prj and .tfw files produced in Step 3
+17.	Modify the settings as needed in the provided script (S4) and run the realizations, including the .prj and .tfw files produced in Step 3
 18.	This outputs the results as vector confidence graphs and the vectors themselves as shapefiles, embedded with magnitude of movement over time
-7
+
+**Step 6: Carry out spatial join, merge tables, and generate heatmap of change**
+19. Carry out a spatial join between the sectors and the resultant vector files
+
