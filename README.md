@@ -62,9 +62,11 @@ This is the workflow for creating river planform binary rasters in ArcGIS Pro. I
 
 9.	Generate a study area and then export it to a folder as a shapefile (ie. Not within a geodatabase). Take care to save the .prj and .tfw for use in Step 5
 10.	 Clip the geometry using the script provided, to reduce the amount of area being analyzed
+11.	 All available unclipped and clipped binary planforms are archived in the PIV Data folder, under the images_unclipped and images_clipped folder respectively
+
 **Step 4: PIV**
 
-12.	Using the settings outlined in Chadwick et al (2023), carry out PIV on pairs of years for each visualization (ie. 8 realizations per pair)
+13.	Using the settings outlined in Chadwick et al (2023), carry out PIV on pairs of years for each visualization (ie. 8 realizations per pair)
 i.	Interrogation area pass 1 = size of widest channel in pixels. For Kanektok, 32 pixels, step 16
 ii.	Pass 2 and pass 3 half of each other. For Landsat, 16 and 8pixels.
 iii.	Correllation robustness= extreme
