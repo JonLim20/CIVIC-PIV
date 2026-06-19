@@ -70,6 +70,8 @@ Make 4 realizations, each with different definitions of water.
 
 **Step 4: PIV**
 
+Video guide: https://youtu.be/o_sjisQOmB8
+
 13.	Using the settings outlined in Chadwick et al (2023), carry out PIV on pairs of years for each visualization (ie. 8 realizations per pair)
 i.	Interrogation area pass 1 = size of widest channel in pixels. For Kanektok, 32 pixels, step 16
 ii.	Pass 2 and pass 3 half of each other. For Landsat, 16 and 8pixels.
