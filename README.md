@@ -64,7 +64,7 @@ Make 4 realizations, each with different definitions of water.
 **Step 3: Clipping the products**
 
 9.	Generate a study area and then export it to a folder as a shapefile (ie. Not within a geodatabase). Take care to save the .prj and .tfw for use in Step 5
-10.	 Clip the geometry using the script provided, to reduce the amount of area being analyzed. It also reprojects the 
+10.	 Clip the geometry using the Auto-clip tool provided in , to reduce the amount of area being analyzed. It also reprojects the 
 11.	 All available unclipped and clipped binary planforms are archived in the PIV Data folder, under the images_unclipped and images_clipped folder respectively
 
 **Step 4: PIV**
